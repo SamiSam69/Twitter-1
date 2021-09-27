@@ -29,7 +29,7 @@ Here's a walkthrough of Logging into Twitter:
 
 User Logging out:
 
-<img src='https://media.giphy.com/media/rooEOU1q7KlLwaOfXQ/giphy.gif?cid=790b76110c53534d5af50e6d1709a1cbdd51ebea5c5f6d84&rid=giphy.gif&ct=g' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/QFDlYmzWmcGRBLw9Ts/giphy.gif?cid=790b7611e277c14a72e02bd227b2598793631dfd445736e1&rid=giphy.gif&ct=g' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 #
 Refresh And Infinite Scroll
